@@ -41,8 +41,11 @@ Use
 ==========================================
 
 Installation
+
 Use 
+
       1: ( sudo chmod 775 connect_wifi.py )
+   
       2: ( ./connect_wifi.py ) 
 
 
