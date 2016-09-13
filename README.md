@@ -19,6 +19,7 @@ wpa_passphrase will create a config file to use it in wpa_supplicant to connect 
 ===== Make Sure To Check The Requirements.txt ======
 
 Use 
+    
     1: ( sudo apt-get install python-pip )
 
     2: ( sudo pip install -r requirements.txt )
@@ -28,6 +29,7 @@ Use
 can be find in the downloaded package 
 
 Use 
+    
     1: ( tar zxf aircrack-ng-1.2-rc4.tar.gz ) 
 
     2: ( cd aircrack-ng-1.2-rc4 )
