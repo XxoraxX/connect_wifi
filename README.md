@@ -1,4 +1,4 @@
-Connect Wifi V1.0
+#Connect Wifi V1.0
 
 Connect Wifi V1.0 is a tool will connect you to your wifi even if you had problem with your network manager 
 
@@ -16,7 +16,7 @@ you will input the ESSID name (wifi name)
 
 wpa_passphrase will create a config file to use it in wpa_supplicant to connect to the wifi .
 
-===== Make Sure To Check The Requirements.txt ======
+###===== Make Sure To Check The Requirements.txt ======
 
 Use 
     
@@ -24,7 +24,7 @@ Use
 
     2: ( sudo pip install -r requirements.txt )
 
-==== Require Aircrack ======
+###==== Require Aircrack ======
 
 can be find in the downloaded package 
 
@@ -38,9 +38,9 @@ Use
 
     4: ( sudo make install )
 
-==========================================
+###==========================================
 
-Installation
+###Installation
 
 Use 
 
@@ -53,4 +53,4 @@ Tested on Ubuntu 16.04
 
 Should Work On Kali 
 
-Created By XxoraxX 
+#Created By XxoraxX 
