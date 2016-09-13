@@ -29,12 +29,12 @@ Use
 can be find in the downloaded package 
 
 Use 
-    
+
     1: ( tar zxf aircrack-ng-1.2-rc4.tar.gz ) 
 
     2: ( cd aircrack-ng-1.2-rc4 )
 
-    3: ( make)
+    3: ( make )
 
     4: ( sudo make install )
 
